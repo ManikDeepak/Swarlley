@@ -1,0 +1,8 @@
+{
+    "app_id": "swarlley-hjawq",
+    "config_version": 20210101,
+    "name": "Swarlley",
+    "location": "IN-MB",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL"
+}
